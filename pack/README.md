@@ -6,3 +6,7 @@ Here are the set commands needed for the configlet:
 ``` 
     set system ddos-protection protocols vxlan aggregate bandwidth 1000 
     set system ddos-protection protocols vxlan aggregate burst 400
+  
+---
+  
+This pack is released with limited testing.
